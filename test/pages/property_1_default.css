@@ -1,0 +1,23 @@
+.property-1-default .link-is-there-alock-in-contract {
+  margin-right: 7.5px;
+  width: 1129.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nourd-SemiBold', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.8px;
+  line-height: 1;
+  color: #484349;
+}
+.property-1-default .vector {
+  margin-bottom: 1px;
+  width: 14px;
+  height: 14px;
+}
+.property-1-default {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1151px;
+  box-sizing: border-box;
+}

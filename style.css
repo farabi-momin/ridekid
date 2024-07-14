@@ -1,0 +1,30 @@
+header{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 44px;
+    width: 100%;
+    gap: 0px;
+    opacity: 0px;
+    background: #F7F0F0;
+    padding: 10px;
+}
+.mainbody{
+    background: url('test/assets/images/rectangle_7.jpeg');
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    right: 0px;
+    height: 1108px;
+    color: aliceblue;
+}
+
+footer{
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+    height: 65px;
+    background: #18A999D9;
+    padding: 10px;
+}
